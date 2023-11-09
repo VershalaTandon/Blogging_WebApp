@@ -1,0 +1,12 @@
+.products {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+
+.norecords {
+  margin-top: 20px;
+  text-align: center;
+}

@@ -1,0 +1,39 @@
+.detailscontainer {
+  flex-direction: row;
+  width: 100%;
+  padding: 10px;
+}
+
+.margin {
+  margin: 10px;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.category {
+  color: black;
+  background-color: white;
+  padding: 5px;
+  border-radius: 2px;
+  width: fit-content;
+}
+
+.title {
+  font-size: 15px;
+}
+
+.authorName {
+  text-decoration-line: underline;
+}
+
+.description {
+  text-align: justify;
+  font-size: 12px;
+}
+
+.author {
+  display: flex;
+}

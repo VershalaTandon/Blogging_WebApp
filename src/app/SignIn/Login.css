@@ -1,0 +1,39 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.authpost {
+  width: 100%;
+}
+
+.logincontainer {
+  padding-bottom: 40px;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.addPostIcon {
+  margin-top: 20px;
+}
+
+.or {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.buttoncontainer {
+  display: flex;
+  justify-content: center;
+}
+
+.formWidth {
+  width: 400px;
+  height: auto;
+}

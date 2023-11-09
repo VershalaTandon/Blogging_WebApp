@@ -1,0 +1,22 @@
+.input {
+  border: 1px solid rgb(19, 19, 19);
+  color: black;
+  border-radius: 15px;
+  padding: 10px;
+  width: 70%;
+}
+
+.disabledinput {
+  border: 1px solid rgb(163, 161, 161);
+  color: rgb(163, 161, 161);
+  border-radius: 15px;
+  padding: 10px;
+  width: 70%;
+}
+
+.inputcontainer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 20px;
+}

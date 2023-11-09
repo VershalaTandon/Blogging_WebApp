@@ -1,0 +1,37 @@
+.borderButton {
+  background-color: transparent;
+  border: 2px solid rgb(255, 255, 255);
+  min-width: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.borderButton:hover {
+  background-color: rgb(60, 60, 60);
+  color: rgb(252, 249, 249);
+  cursor: pointer;
+}
+
+.noborderButton {
+  font-size: 15px;
+  text-decoration: underline;
+  background-color: transparent;
+  min-width: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.noborderButton:hover {
+  padding: 10px;
+  color: rgb(163, 161, 161);
+  cursor: pointer;
+}
